@@ -8,7 +8,7 @@ install:
   yarn install
 branches:
   only:
-    - master # build master branch onl
+    - main # build master branch onl
 script:
   - hexo generate # generate static files
 deploy:
@@ -17,5 +17,5 @@ deploy:
   github-token: $GH_TOKEN
   keep-history: true
   on:
-    branch: master
+    branch: main
   local-dir: public
