@@ -78,5 +78,30 @@
   
   
   
+  <entry>
+    <title>每日一题2021-9-13</title>
+    <link href="/2021/09/12/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-13/"/>
+    <url>/2021/09/12/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-13/</url>
+    
+    <content type="html"><![CDATA[<h3 id="每日一题2021-9-13"><a href="#每日一题2021-9-13" class="headerlink" title="每日一题2021-9-13"></a><center>每日一题2021-9-13</center></h3><h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><p>津津上初中了。妈妈认为津津应该更加用功学习，所以津津除了上学之外，还要参加妈妈为她报名的各科复习班。另外每周妈妈还会送她去学习朗诵、舞蹈和钢琴。但是津津如果一天上课超过八个小时就会不高兴，而且上得越久就会越不高兴。假设津津不会因为其它事不高兴，并且她的不高兴不会持续到第二天。请你帮忙检查一下津津下周的日程安排，看看下周她会不会不高兴；如果会的话，哪天最不高兴。</p><h3 id="输入格式"><a href="#输入格式" class="headerlink" title="输入格式"></a>输入格式</h3><p>输入包括7行数据，分别表示周一到周日的日程安排。每行包括两个小于10的非负整数，用空格隔开，分别表示津津在学校上课的时间和妈妈安排她上课的时间。</p><h3 id="输出格式"><a href="#输出格式" class="headerlink" title="输出格式"></a>输出格式</h3><p>一个数字。如果不会不高兴则输出0，如果会则输出最不高兴的是周几（用1，2，3，4，5，6，7分别表示周一，周二，周三，周四，周五，周六，周日）。如果有两天或两天以上不高兴的程度相当，则输出时间最靠前的一天。</p><h3 id="输入输出样例"><a href="#输入输出样例" class="headerlink" title="输入输出样例"></a>输入输出样例</h3><h4 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h4><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">5 </span><span class="hljs-number">3</span><br><span class="hljs-symbol">6 </span><span class="hljs-number">2</span><br><span class="hljs-symbol">7 </span><span class="hljs-number">2</span><br><span class="hljs-symbol">5 </span><span class="hljs-number">3</span><br><span class="hljs-symbol">5 </span><span class="hljs-number">4</span><br><span class="hljs-symbol">0 </span><span class="hljs-number">4</span><br><span class="hljs-symbol">0 </span><span class="hljs-number">6</span><br></code></pre></td></tr></table></figure><h4 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h4><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs">3<br></code></pre></td></tr></table></figure><h3 id="在线评测网址"><a href="#在线评测网址" class="headerlink" title="在线评测网址"></a>在线评测网址</h3><p><a href="https://www.luogu.com.cn/problem/P1085">https://www.luogu.com.cn/problem/P1085</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>C语言入门题目</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>题目</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
   
 </search>
