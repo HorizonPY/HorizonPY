@@ -5,8 +5,8 @@
   
   <entry>
     <title>test</title>
-    <link href="/2021/09/11/test/"/>
-    <url>/2021/09/11/test/</url>
+    <link href="/2021/09/12/test/"/>
+    <url>/2021/09/12/test/</url>
     
     <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/">B站</a></p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span><span class="hljs-meta-string">&lt;stdio.h&gt;</span></span><br><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;hello world!&quot;</span>);<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
     
@@ -24,10 +24,29 @@
   
   <entry>
     <title>每日一题2021-9-11</title>
-    <link href="/2021/09/11/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/"/>
-    <url>/2021/09/11/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/</url>
+    <link href="/2021/09/12/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/"/>
+    <url>/2021/09/12/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/</url>
     
-    <content type="html"><![CDATA[<h3 id="每日一题2021-9-11"><a href="#每日一题2021-9-11" class="headerlink" title="每日一题2021-9-11"></a><center>每日一题2021-9-11</center></h3><h4 id="简化版"><a href="#简化版" class="headerlink" title="简化版:"></a>简化版:</h4><p>题目描述：<br>输入一组勾股数 a,b,c（a!=b!=c），用分数格式输出其较小锐角的正弦值。</p><p>输入格式：<br>一行，包含三个正整数，即勾股数 a,b,c（无大小顺序）。</p><p>输出格式：<br>一行，包含一个分数，即较小锐角的正弦值</p><p>输入输出样例</p><p>输入</p><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">3 </span><span class="hljs-number">4</span> <span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p>输出</p><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">3</span>/<span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p><em>说明/提示</em></p><p>数据保证：a,b,c为正整数且 ∈[1,10^9]</p><h4 id="完整版"><a href="#完整版" class="headerlink" title="完整版:"></a>完整版:</h4>]]></content>
+    <content type="html"><![CDATA[<h3 id="每日一题2021-9-11"><a href="#每日一题2021-9-11" class="headerlink" title="每日一题2021-9-11"></a><center>每日一题2021-9-11</center></h3><h4 id="简化版"><a href="#简化版" class="headerlink" title="简化版:"></a>简化版:</h4><p>题目描述：<br>输入一组勾股数 a,b,c（a!=b!=c），用分数格式输出其较小锐角的正弦值。</p><p>输入格式：<br>一行，包含三个正整数，即勾股数 a,b,c（无大小顺序）。</p><p>输出格式：<br>一行，包含一个分数，即较小锐角的正弦值</p><p>输入输出样例</p><p>输入</p><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">3 </span><span class="hljs-number">4</span> <span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p>输出</p><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">3</span>/<span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p><em>说明/提示</em></p><p>数据保证：a,b,c为正整数且 ∈[1,10^9]</p><h4 id="完整版"><a href="#完整版" class="headerlink" title="完整版:"></a>完整版:</h4><p>在简化版基础上要求输出结果必须为最简分数</p><h3 id="在线评测网址："><a href="#在线评测网址：" class="headerlink" title="在线评测网址："></a>在线评测网址：</h3><p><a href="https://www.luogu.com.cn/problem/P1888">https://www.luogu.com.cn/problem/P1888</a></p><p>要求简化版通过 四个测试点即可，完整版应通过全部测试点</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>题目</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>每日一题2021-9-12</title>
+    <link href="/2021/09/12/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-12/"/>
+    <url>/2021/09/12/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-12/</url>
+    
+    <content type="html"><![CDATA[<h3 id="每日一题2021-9-12"><a href="#每日一题2021-9-12" class="headerlink" title="每日一题2021-9-12"></a><center>每日一题2021-9-12</center></h3><h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><p>给出三条线段 a,b,ca,b,c 的长度，均是不大于 10000 的整数。打算把这三条线段拼成一个三角形，它可以是什么三角形呢？</p><p>如果三条线段不能组成一个三角形，输出 Not triangle<br>如果是直角三角形，输出 Right triangle<br>如果是锐角三角形，输出 Acute triangle<br>如果是钝角三角形，输出 Obtuse triangle<br>如果是等腰三角形，输出 Isosceles triangle<br>如果是等边三角形，输出 Equilateral triangle</p><p>如果这个三角形符合以上多个条件，请按以上顺序分别输出，并用换行符隔开。</p><h3 id="输入格式"><a href="#输入格式" class="headerlink" title="输入格式"></a>输入格式</h3><p>a b c 三个整数分别代表三条线段长度</p><h3 id="输出格式"><a href="#输出格式" class="headerlink" title="输出格式"></a>输出格式</h3><p>参考题目描述</p><h3 id="输入输出样例"><a href="#输入输出样例" class="headerlink" title="输入输出样例"></a>输入输出样例</h3><p>输入</p><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">3 </span><span class="hljs-number">4</span> <span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p>输出</p><figure class="highlight coq"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs coq"><span class="hljs-keyword">Right</span> triangle<br></code></pre></td></tr></table></figure><h3 id="说明-提示"><a href="#说明-提示" class="headerlink" title="说明/提示"></a>说明/提示</h3><p>当两短边的平方和大于一长边的平方，说明是锐角三角形。</p><p>当两短边的平方和等于一长边的平方，说明是直角三角形。</p><p>当两短边的平方和小于一长边的平方，说明是钝角三角形。</p><h3 id="在线评测网址："><a href="#在线评测网址：" class="headerlink" title="在线评测网址："></a>在线评测网址：</h3><p><a href="https://www.luogu.com.cn/problem/P5717">https://www.luogu.com.cn/problem/P5717</a></p>]]></content>
     
     
     
