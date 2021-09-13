@@ -104,6 +104,31 @@
   
   
   <entry>
+    <title>C语言的简易弹窗</title>
+    <link href="/2021/09/13/C%E8%AF%AD%E8%A8%80%E7%9A%84%E7%AE%80%E6%98%93%E5%BC%B9%E7%AA%97/"/>
+    <url>/2021/09/13/C%E8%AF%AD%E8%A8%80%E7%9A%84%E7%AE%80%E6%98%93%E5%BC%B9%E7%AA%97/</url>
+    
+    <content type="html"><![CDATA[<h3 id="利用C语言中-Windows-h-中的-MessageBox-实现简易弹窗"><a href="#利用C语言中-Windows-h-中的-MessageBox-实现简易弹窗" class="headerlink" title="利用C语言中 Windows.h 中的 MessageBox 实现简易弹窗"></a>利用C语言中 Windows.h 中的 MessageBox 实现简易弹窗</h3><h4 id="MessageBox-基本形式"><a href="#MessageBox-基本形式" class="headerlink" title="MessageBox 基本形式"></a>MessageBox 基本形式</h4><figure class="highlight reasonml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs reasonml"><span class="hljs-constructor">MessageBox(HWND <span class="hljs-params">hWnd</span>,LPCTSTR <span class="hljs-params">lpText</span>,LPCTSTR <span class="hljs-params">lpCaption</span>,UINT UType)</span>;<br></code></pre></td></tr></table></figure><p>说人话就是</p><figure class="highlight gcode"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs gcode">MessageBox<span class="hljs-comment">(句柄, 显示内容,标题,按钮)</span>;<br></code></pre></td></tr></table></figure><p>句柄是什么？<br>目前完全可以忽略掉~</p><p>关于按钮类型有几种常见的：<br>MB_ABORTRETRYIGNORE<br>MB_OKCANCEL<br>MB_RETRYCANCEL<br>MB_YESNO<br>MB_YESNOCANCEL<br>MB_OK</p><p>这里就不介绍对应的按钮实际是怎样的，试一试就知道了</p><h4 id="示例-1"><a href="#示例-1" class="headerlink" title="示例#1"></a>示例#1</h4><figure class="highlight nsis"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs nsis"><span class="hljs-keyword">MessageBox</span>(NULL,<span class="hljs-string">&quot;hello&quot;</span>,<span class="hljs-string">&quot;test&quot;</span>,<span class="hljs-params">MB_OK</span>)<span class="hljs-comment">;</span><br></code></pre></td></tr></table></figure><img src="/img/13-1.png" width="25%" height="25%"><h4 id="示例-2"><a href="#示例-2" class="headerlink" title="示例#2"></a>示例#2</h4><p>如果加上循环的话就可以无限的弹出</p><figure class="highlight arduino"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs arduino"><span class="hljs-keyword">while</span>(<span class="hljs-number">1</span>)<br><span class="hljs-built_in">MessageBox</span>(<span class="hljs-literal">NULL</span>,<span class="hljs-string">&quot;hello&quot;</span>,<span class="hljs-string">&quot;test&quot;</span>,MB_OK);<br></code></pre></td></tr></table></figure><h3 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h3><p>使用 Windows.h 内的 MessageBox 可以实现简单的 Windows 弹窗，更复杂的类似于 句柄 的相关概念可以继续深入了解，本文章仅作介绍，不赘述~</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>编程娱乐向</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>趣味性</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>每日一题2021-9-13</title>
     <link href="/2021/09/13/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-13/"/>
     <url>/2021/09/13/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-13/</url>
