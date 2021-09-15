@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>每日一题2021-9-15</title>
-    <link href="/2021/09/15/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%9821-9-15/"/>
-    <url>/2021/09/15/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%9821-9-15/</url>
+    <title>每日一题2021-9-16</title>
+    <link href="/2021/09/16/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%9821-9-16/"/>
+    <url>/2021/09/16/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%9821-9-16/</url>
     
-    <content type="html"><![CDATA[<h3 id="每日一题2021-9-15"><a href="#每日一题2021-9-15" class="headerlink" title="每日一题2021-9-15"></a><center>每日一题2021-9-15</center></h3><h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><p>已知有 a,b,c 三个无序整数，现在请你判断并输出其中最大的数</p><h3 id="输入格式"><a href="#输入格式" class="headerlink" title="输入格式"></a>输入格式</h3><p>分别输入三个数字（空格隔开）</p><h3 id="输出格式"><a href="#输出格式" class="headerlink" title="输出格式"></a>输出格式</h3><p>一个数（最大值）</p><h3 id="输入输出样例"><a href="#输入输出样例" class="headerlink" title="输入输出样例"></a>输入输出样例</h3><h4 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h4><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">3 </span><span class="hljs-number">5</span> <span class="hljs-number">4</span><br></code></pre></td></tr></table></figure><h4 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h4><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs">5<br></code></pre></td></tr></table></figure><p>无评测网址，自己写完编几个数据测试即可</p><h3 id="提示说明"><a href="#提示说明" class="headerlink" title="提示说明"></a>提示说明</h3><p>这个题目是我晚上突然想到的，除了使用多个if，这里提供一种我个人的写法</p><pre><code>    //可以定义一个函数专门来求两个数之间的最大数    int max(int a,int b)    &#123;        if(a&gt;=b)            return a;        else            return b;    &#125;    //以上函数即可以完成max(a,b) 的操作    //那么对于三个数 a,b,c 如下写法即可    max(a,max(b,c));    //先找出 b,c 之间的最大值 然后再和 a 进行比较</code></pre>]]></content>
+    <content type="html"><![CDATA[<h3 id="每日一题2021-9-16"><a href="#每日一题2021-9-16" class="headerlink" title="每日一题2021-9-16"></a><center>每日一题2021-9-16</center></h3><h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><p>一些数字可能拥有以下的性质：</p><p>性质 1：是偶数；<br>性质 2：大于 4 且不大于 12。<br>小A 喜欢这两个性质同时成立的数字；Uim 喜欢这至少符合其中一种性质的数字；八尾勇喜欢刚好有符合其中一个性质的数字；正妹喜欢不符合这两个性质的数字。</p><h3 id="输入格式"><a href="#输入格式" class="headerlink" title="输入格式"></a>输入格式</h3><p>输入一个数字 x(0≤x≤1000)</p><h3 id="输出格式"><a href="#输出格式" class="headerlink" title="输出格式"></a>输出格式</h3><p>输出这 4 个人是否喜欢这个数字，如果喜欢则输出1，否则输出0，用空格分隔。</p><h3 id="输入输出样例"><a href="#输入输出样例" class="headerlink" title="输入输出样例"></a>输入输出样例</h3><h4 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h4><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs">12<br></code></pre></td></tr></table></figure><h3 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h3><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">1 </span><span class="hljs-number">1</span> <span class="hljs-number">0</span> <span class="hljs-number">0</span><br></code></pre></td></tr></table></figure><h3 id="在线评测"><a href="#在线评测" class="headerlink" title="在线评测"></a>在线评测</h3><p><a href="https://www.luogu.com.cn/problem/P5710">https://www.luogu.com.cn/problem/P5710</a></p>]]></content>
     
     
     <categories>
@@ -30,8 +30,8 @@
   
   <entry>
     <title>test</title>
-    <link href="/2021/09/14/test/"/>
-    <url>/2021/09/14/test/</url>
+    <link href="/2021/09/15/test/"/>
+    <url>/2021/09/15/test/</url>
     
     <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/">B站</a></p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span><span class="hljs-meta-string">&lt;stdio.h&gt;</span></span><br><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;hello world!&quot;</span>);<br>&#125;<br></code></pre></td></tr></table></figure><div class="note note-success">            <p>文字 或者 <code>markdown</code> 均可</p>          </div><div>            <input type="checkbox" disabled >text          </div>]]></content>
     
@@ -55,8 +55,8 @@
   
   <entry>
     <title>每日一题2021-9-11</title>
-    <link href="/2021/09/14/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/"/>
-    <url>/2021/09/14/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/</url>
+    <link href="/2021/09/15/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/"/>
+    <url>/2021/09/15/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/</url>
     
     <content type="html"><![CDATA[<h3 id="每日一题2021-9-11"><a href="#每日一题2021-9-11" class="headerlink" title="每日一题2021-9-11"></a><center>每日一题2021-9-11</center></h3><h4 id="简化版"><a href="#简化版" class="headerlink" title="简化版:"></a>简化版:</h4><p>题目描述：<br>输入一组勾股数 a,b,c（a!=b!=c），用分数格式输出其较小锐角的正弦值。</p><p>输入格式：<br>一行，包含三个正整数，即勾股数 a,b,c（无大小顺序）。</p><p>输出格式：<br>一行，包含一个分数，即较小锐角的正弦值</p><p>输入输出样例</p><p>输入</p><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">3 </span><span class="hljs-number">4</span> <span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p>输出</p><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">3</span>/<span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p><em>说明/提示</em></p><p>数据保证：a,b,c为正整数且 ∈[1,10^9]</p><h4 id="完整版"><a href="#完整版" class="headerlink" title="完整版:"></a>完整版:</h4><p>在简化版基础上要求输出结果必须为最简分数</p><h3 id="在线评测网址："><a href="#在线评测网址：" class="headerlink" title="在线评测网址："></a>在线评测网址：</h3><p><a href="https://www.luogu.com.cn/problem/P1888">https://www.luogu.com.cn/problem/P1888</a></p><p>要求简化版通过 四个测试点即可，完整版应通过全部测试点</p>]]></content>
     
@@ -80,10 +80,35 @@
   
   <entry>
     <title>每日一题2021-9-12</title>
-    <link href="/2021/09/14/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-12/"/>
-    <url>/2021/09/14/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-12/</url>
+    <link href="/2021/09/15/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-12/"/>
+    <url>/2021/09/15/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-12/</url>
     
     <content type="html"><![CDATA[<h3 id="每日一题2021-9-12"><a href="#每日一题2021-9-12" class="headerlink" title="每日一题2021-9-12"></a><center>每日一题2021-9-12</center></h3><h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><p>给出三条线段 a,b,c 的长度，均是不大于 10000 的整数。打算把这三条线段拼成一个三角形，它可以是什么三角形呢？</p><p>如果三条线段不能组成一个三角形，输出 Not triangle<br>如果是直角三角形，输出 Right triangle<br>如果是锐角三角形，输出 Acute triangle<br>如果是钝角三角形，输出 Obtuse triangle<br>如果是等腰三角形，输出 Isosceles triangle<br>如果是等边三角形，输出 Equilateral triangle</p><p>如果这个三角形符合以上多个条件，请按以上顺序分别输出，并用换行符隔开。</p><h3 id="输入格式"><a href="#输入格式" class="headerlink" title="输入格式"></a>输入格式</h3><p>a b c 三个整数分别代表三条线段长度</p><h3 id="输出格式"><a href="#输出格式" class="headerlink" title="输出格式"></a>输出格式</h3><p>参考题目描述</p><h3 id="输入输出样例"><a href="#输入输出样例" class="headerlink" title="输入输出样例"></a>输入输出样例</h3><p>输入</p><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">3 </span><span class="hljs-number">4</span> <span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p>输出</p><figure class="highlight coq"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs coq"><span class="hljs-keyword">Right</span> triangle<br></code></pre></td></tr></table></figure><h3 id="说明-提示"><a href="#说明-提示" class="headerlink" title="说明/提示"></a>说明/提示</h3><p>当两短边的平方和大于一长边的平方，说明是锐角三角形。</p><p>当两短边的平方和等于一长边的平方，说明是直角三角形。</p><p>当两短边的平方和小于一长边的平方，说明是钝角三角形。</p><h3 id="在线评测网址："><a href="#在线评测网址：" class="headerlink" title="在线评测网址："></a>在线评测网址：</h3><p><a href="https://www.luogu.com.cn/problem/P5717">https://www.luogu.com.cn/problem/P5717</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>C语言入门题目</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>题目</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>每日一题2021-9-15</title>
+    <link href="/2021/09/15/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%9821-9-15/"/>
+    <url>/2021/09/15/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%9821-9-15/</url>
+    
+    <content type="html"><![CDATA[<h3 id="每日一题2021-9-15"><a href="#每日一题2021-9-15" class="headerlink" title="每日一题2021-9-15"></a><center>每日一题2021-9-15</center></h3><h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><p>已知有 a,b,c 三个无序整数，现在请你判断并输出其中最大的数</p><h3 id="输入格式"><a href="#输入格式" class="headerlink" title="输入格式"></a>输入格式</h3><p>分别输入三个数字（空格隔开）</p><h3 id="输出格式"><a href="#输出格式" class="headerlink" title="输出格式"></a>输出格式</h3><p>一个数（最大值）</p><h3 id="输入输出样例"><a href="#输入输出样例" class="headerlink" title="输入输出样例"></a>输入输出样例</h3><h4 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h4><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">3 </span><span class="hljs-number">5</span> <span class="hljs-number">4</span><br></code></pre></td></tr></table></figure><h4 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h4><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs">5<br></code></pre></td></tr></table></figure><p>无评测网址，自己写完编几个数据测试即可</p><h3 id="提示说明"><a href="#提示说明" class="headerlink" title="提示说明"></a>提示说明</h3><p>这个题目是我晚上突然想到的，除了使用多个if，这里提供一种我个人的写法</p><pre><code>    //可以定义一个函数专门来求两个数之间的最大数    int max(int a,int b)    &#123;        if(a&gt;=b)            return a;        else            return b;    &#125;    //以上函数即可以完成max(a,b) 的操作    //那么对于三个数 a,b,c 如下写法即可    max(a,max(b,c));    //先找出 b,c 之间的最大值 然后再和 a 进行比较</code></pre>]]></content>
     
     
     <categories>
