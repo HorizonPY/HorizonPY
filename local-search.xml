@@ -4,36 +4,11 @@
   
   
   <entry>
-    <title>梦</title>
-    <link href="/2021/09/19/%E6%A2%A6/"/>
-    <url>/2021/09/19/%E6%A2%A6/</url>
-    
-    <content type="html"><![CDATA[<h2 id="梦"><a href="#梦" class="headerlink" title="梦"></a><center>梦</center></h2><h3 id="写在前面："><a href="#写在前面：" class="headerlink" title="写在前面："></a>写在前面：</h3><p>中秋节就不更题目了，昨晚梦到了她，此文是对梦中内容的描写，也是对求而不得的那个白月光的怀念。</p><h3 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h3><p style="text-indent:2em">梦是虚幻的，梦中的场景往往是熟悉而又陌生的。梦境将你的经历揉成一团，你或是主角或是第三人称，将梦境的褶皱展开。我看到了迥异的场景，我的家乡我的学校和我牵挂我所不屑的人拼凑在一起。</p><p style="text-indent:2em">高中超市是熟悉的，那携手的两人是我不敢正眼观望却又暗中注视着的。夏日的冰淇淋香甜可口，我在超市内浏览商品，慕然抬头，她也看到了我。面对她温柔又疑惑的眼光，我是逃避的。向外奔走，门外的阳光明媚，她出乎意料的跟了上来。“这是给你的”她给了我一个冰淇淋。我有点惊愕，“你一个人来干嘛？“这句话我还未说出，但已在梦境中形成了模糊的想法。</p><p style="text-indent:2em">梦是无常的，场景的变换没有明面的逻辑可言。蒙太奇的场景投射出我和她的过往，我们走过的家乡小镇和我们畅聊过的校园教学楼。</p><p style="text-indent:2em">我们走在路上，似乎她还是从前的她，从未改变，反而是我内心构想了太多不应该，但我依旧明白物是人非的道理。手里拿着的是否是冰淇淋，这都不再重要。</p><p style="text-indent:2em">“吃完这个冰淇淋，我大概就释然了“这是我梦中的发言。</p><p style="text-indent:2em">“等我真正释然了我们就可以再变回朋友吧 “，我不知道如何形容这句话从我口中吐出时的语气，我不应该用标点来限制它。</p><p style="text-indent:2em">“嗯“，这或许不是她梦中所说，但她的确表达了同意的态度。</p><p style="text-indent:2em">我来不及思考自己是否能释然，梦也拨开了我的思绪。我们无征兆的聊起大学生活，她向我谈论她的室友、军训，我也略说种种。</p><p style="text-indent:2em">这是第二次梦到和她一起走在家乡小镇的马路上，空无一人。时间仿佛没有移动，但我们已经到达了路口。路口处就是通往我家的方向。</p><p style="text-indent:2em">“你自己一个人回去吗？“我对她说出这句话，不知道是暗示另一人的存在还是想要像以往那样送她一程，梦中的事情也不宜细细考证了。</p><p style="text-indent:2em">梦是无常的，我目送她消失在梦中。</p><p style="text-indent:2em">我醒了~</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>随笔</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>随笔</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>test</title>
-    <link href="/2021/09/18/test/"/>
-    <url>/2021/09/18/test/</url>
+    <link href="/2021/09/20/test/"/>
+    <url>/2021/09/20/test/</url>
     
-    <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/">B站</a></p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span><span class="hljs-meta-string">&lt;stdio.h&gt;</span></span><br><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;hello world!&quot;</span>);<br>&#125;<br></code></pre></td></tr></table></figure><div class="note note-success">            <p>文字 或者 <code>markdown</code> 均可</p>          </div><div>            <input type="checkbox" disabled >text          </div>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/">B站</a></p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span><span class="hljs-meta-string">&lt;stdio.h&gt;</span></span><br><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;hello world!&quot;</span>);<br>&#125;<br></code></pre></td></tr></table></figure><div class="note note-success">            <p>文字 或者 <code>markdown</code> 均可</p>          </div><div>            <input type="checkbox" disabled >text          </div><h3 id="第三方播放嵌入"><a href="#第三方播放嵌入" class="headerlink" title="第三方播放嵌入"></a>第三方播放嵌入</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe src="//player.bilibili.com/player.html?aid=548092644&bvid=BV14q4y1K71L&cid=410803311&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=490 height=270> </iframe>]]></content>
     
     
     <categories>
@@ -54,23 +29,23 @@
   
   
   <entry>
-    <title>每日一题2021-9-11</title>
-    <link href="/2021/09/18/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/"/>
-    <url>/2021/09/18/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/</url>
+    <title>梦</title>
+    <link href="/2021/09/19/%E6%A2%A6/"/>
+    <url>/2021/09/19/%E6%A2%A6/</url>
     
-    <content type="html"><![CDATA[<h3 id="每日一题2021-9-11"><a href="#每日一题2021-9-11" class="headerlink" title="每日一题2021-9-11"></a><center>每日一题2021-9-11</center></h3><h4 id="简化版"><a href="#简化版" class="headerlink" title="简化版:"></a>简化版:</h4><p>题目描述：<br>输入一组勾股数 a,b,c（a!=b!=c），用分数格式输出其较小锐角的正弦值。</p><p>输入格式：<br>一行，包含三个正整数，即勾股数 a,b,c（无大小顺序）。</p><p>输出格式：<br>一行，包含一个分数，即较小锐角的正弦值</p><p>输入输出样例</p><p>输入</p><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">3 </span><span class="hljs-number">4</span> <span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p>输出</p><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">3</span>/<span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p><em>说明/提示</em></p><p>数据保证：a,b,c为正整数且 ∈[1,10^9]</p><h4 id="完整版"><a href="#完整版" class="headerlink" title="完整版:"></a>完整版:</h4><p>在简化版基础上要求输出结果必须为最简分数</p><h3 id="在线评测网址："><a href="#在线评测网址：" class="headerlink" title="在线评测网址："></a>在线评测网址：</h3><p><a href="https://www.luogu.com.cn/problem/P1888">https://www.luogu.com.cn/problem/P1888</a></p><p>要求简化版通过 四个测试点即可，完整版应通过全部测试点</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="梦"><a href="#梦" class="headerlink" title="梦"></a><center>梦</center></h2><h3 id="写在前面："><a href="#写在前面：" class="headerlink" title="写在前面："></a>写在前面：</h3><p>中秋节就不更题目了，昨晚梦到了她，此文是对梦中内容的描写，也是对求而不得的那个白月光的怀念。</p><h3 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h3><p style="text-indent:2em">梦是虚幻的，梦中的场景往往是熟悉而又陌生的。梦境将你的经历揉成一团，你或是主角或是第三人称，将梦境的褶皱展开。我看到了迥异的场景，我的家乡我的学校和我牵挂我所不屑的人拼凑在一起。</p><p style="text-indent:2em">高中超市是熟悉的，那携手的两人是我不敢正眼观望却又暗中注视着的。夏日的冰淇淋香甜可口，我在超市内浏览商品，慕然抬头，她也看到了我。面对她温柔又疑惑的眼光，我是逃避的。向外奔走，门外的阳光明媚，她出乎意料的跟了上来。“这是给你的”她给了我一个冰淇淋。我有点惊愕，“你一个人来干嘛？“这句话我还未说出，但已在梦境中形成了模糊的想法。</p><p style="text-indent:2em">梦是无常的，场景的变换没有明面的逻辑可言。蒙太奇的场景投射出我和她的过往，我们走过的家乡小镇和我们畅聊过的校园教学楼。</p><p style="text-indent:2em">我们走在路上，似乎她还是从前的她，从未改变，反而是我内心构想了太多不应该，但我依旧明白物是人非的道理。手里拿着的是否是冰淇淋，这都不再重要。</p><p style="text-indent:2em">“吃完这个冰淇淋，我大概就释然了“这是我梦中的发言。</p><p style="text-indent:2em">“等我真正释然了我们就可以再变回朋友吧 “，我不知道如何形容这句话从我口中吐出时的语气，我不应该用标点来限制它。</p><p style="text-indent:2em">“嗯“，这或许不是她梦中所说，但她的确表达了同意的态度。</p><p style="text-indent:2em">我来不及思考自己是否能释然，梦也拨开了我的思绪。我们无征兆的聊起大学生活，她向我谈论她的室友、军训，我也略说种种。</p><p style="text-indent:2em">这是第二次梦到和她一起走在家乡小镇的马路上，空无一人。时间仿佛没有移动，但我们已经到达了路口。路口处就是通往我家的方向。</p><p style="text-indent:2em">“你自己一个人回去吗？“我对她说出这句话，不知道是暗示另一人的存在还是想要像以往那样送她一程，梦中的事情也不宜细细考证了。</p><p style="text-indent:2em">梦是无常的，我目送她消失在梦中。</p><p style="text-indent:2em">我醒了~</p>]]></content>
     
     
     <categories>
       
-      <category>C语言入门题目</category>
+      <category>随笔</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>题目</tag>
+      <tag>随笔</tag>
       
     </tags>
     
@@ -259,6 +234,31 @@
     <url>/2021/09/12/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-12/</url>
     
     <content type="html"><![CDATA[<h3 id="每日一题2021-9-12"><a href="#每日一题2021-9-12" class="headerlink" title="每日一题2021-9-12"></a><center>每日一题2021-9-12</center></h3><h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><p>给出三条线段 a,b,c 的长度，均是不大于 10000 的整数。打算把这三条线段拼成一个三角形，它可以是什么三角形呢？</p><p>如果三条线段不能组成一个三角形，输出 Not triangle<br>如果是直角三角形，输出 Right triangle<br>如果是锐角三角形，输出 Acute triangle<br>如果是钝角三角形，输出 Obtuse triangle<br>如果是等腰三角形，输出 Isosceles triangle<br>如果是等边三角形，输出 Equilateral triangle</p><p>如果这个三角形符合以上多个条件，请按以上顺序分别输出，并用换行符隔开。</p><h3 id="输入格式"><a href="#输入格式" class="headerlink" title="输入格式"></a>输入格式</h3><p>a b c 三个整数分别代表三条线段长度</p><h3 id="输出格式"><a href="#输出格式" class="headerlink" title="输出格式"></a>输出格式</h3><p>参考题目描述</p><h3 id="输入输出样例"><a href="#输入输出样例" class="headerlink" title="输入输出样例"></a>输入输出样例</h3><p>输入</p><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">3 </span><span class="hljs-number">4</span> <span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p>输出</p><figure class="highlight coq"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs coq"><span class="hljs-keyword">Right</span> triangle<br></code></pre></td></tr></table></figure><h3 id="说明-提示"><a href="#说明-提示" class="headerlink" title="说明/提示"></a>说明/提示</h3><p>当两短边的平方和大于一长边的平方，说明是锐角三角形。</p><p>当两短边的平方和等于一长边的平方，说明是直角三角形。</p><p>当两短边的平方和小于一长边的平方，说明是钝角三角形。</p><h3 id="在线评测网址："><a href="#在线评测网址：" class="headerlink" title="在线评测网址："></a>在线评测网址：</h3><p><a href="https://www.luogu.com.cn/problem/P5717">https://www.luogu.com.cn/problem/P5717</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>C语言入门题目</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>题目</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>每日一题2021-9-11</title>
+    <link href="/2021/09/11/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/"/>
+    <url>/2021/09/11/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%982021-9-11/</url>
+    
+    <content type="html"><![CDATA[<h3 id="每日一题2021-9-11"><a href="#每日一题2021-9-11" class="headerlink" title="每日一题2021-9-11"></a><center>每日一题2021-9-11</center></h3><h4 id="简化版"><a href="#简化版" class="headerlink" title="简化版:"></a>简化版:</h4><p>题目描述：<br>输入一组勾股数 a,b,c（a!=b!=c），用分数格式输出其较小锐角的正弦值。</p><p>输入格式：<br>一行，包含三个正整数，即勾股数 a,b,c（无大小顺序）。</p><p>输出格式：<br>一行，包含一个分数，即较小锐角的正弦值</p><p>输入输出样例</p><p>输入</p><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">3 </span><span class="hljs-number">4</span> <span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p>输出</p><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">3</span>/<span class="hljs-number">5</span><br></code></pre></td></tr></table></figure><p><em>说明/提示</em></p><p>数据保证：a,b,c为正整数且 ∈[1,10^9]</p><h4 id="完整版"><a href="#完整版" class="headerlink" title="完整版:"></a>完整版:</h4><p>在简化版基础上要求输出结果必须为最简分数</p><h3 id="在线评测网址："><a href="#在线评测网址：" class="headerlink" title="在线评测网址："></a>在线评测网址：</h3><p><a href="https://www.luogu.com.cn/problem/P1888">https://www.luogu.com.cn/problem/P1888</a></p><p>要求简化版通过 四个测试点即可，完整版应通过全部测试点</p>]]></content>
     
     
     <categories>
