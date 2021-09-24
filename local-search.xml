@@ -4,9 +4,34 @@
   
   
   <entry>
+    <title>每日一题2021-9-25</title>
+    <link href="/2021/09/25/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%9821-9-25/"/>
+    <url>/2021/09/25/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%9821-9-25/</url>
+    
+    <content type="html"><![CDATA[<h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><p>试计算在区间 1 到 n 的所有整数中，数字 x（0≤x≤9）共出现了多少次？例如，在 1 到 11 中，即在 1,2,3,4,5,6,7,8,9,10,11中，数字 1 出现了 4 次。</p><h3 id="输入格式"><a href="#输入格式" class="headerlink" title="输入格式"></a>输入格式</h3><p>2 个整数 n,x，之间用一个空格隔开。</p><h3 id="输出格式"><a href="#输出格式" class="headerlink" title="输出格式"></a>输出格式</h3><p>1 个整数，表示 x 出现的次数。</p><h3 id="输入输出样例"><a href="#输入输出样例" class="headerlink" title="输入输出样例"></a>输入输出样例</h3><h4 id="输入"><a href="#输入" class="headerlink" title="输入"></a>输入</h4><figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">11 </span><span class="hljs-number">1</span><br></code></pre></td></tr></table></figure><h4 id="输出"><a href="#输出" class="headerlink" title="输出"></a>输出</h4><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs">4<br></code></pre></td></tr></table></figure><h3 id="说明-提示"><a href="#说明-提示" class="headerlink" title="说明/提示"></a>说明/提示</h3><p>对于 100% 的数据，1≤n≤10^6,0≤x≤9。</p><h3 id="在线评测"><a href="#在线评测" class="headerlink" title="在线评测"></a>在线评测</h3><p><a href="https://www.luogu.com.cn/problem/P1980">https://www.luogu.com.cn/problem/P1980</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>C语言入门题目</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>题目</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>test</title>
-    <link href="/2021/09/22/test/"/>
-    <url>/2021/09/22/test/</url>
+    <link href="/2021/09/24/test/"/>
+    <url>/2021/09/24/test/</url>
     
     <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/">B站</a></p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span><span class="hljs-meta-string">&lt;stdio.h&gt;</span></span><br><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;hello world!&quot;</span>);<br>&#125;<br></code></pre></td></tr></table></figure><div class="note note-success">            <p>文字 或者 <code>markdown</code> 均可</p>          </div><div>            <input type="checkbox" disabled >text          </div><h3 id="第三方播放嵌入"><a href="#第三方播放嵌入" class="headerlink" title="第三方播放嵌入"></a>第三方播放嵌入</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe src="//player.bilibili.com/player.html?aid=548092644&bvid=BV14q4y1K71L&cid=410803311&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=490 height=270> </iframe><h3 id="最近进行功能学习测试，更新不定时"><a href="#最近进行功能学习测试，更新不定时" class="headerlink" title="最近进行功能学习测试，更新不定时"></a>最近进行功能学习测试，更新不定时</h3>]]></content>
     
