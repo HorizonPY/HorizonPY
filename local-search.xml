@@ -4,6 +4,56 @@
   
   
   <entry>
+    <title>JSStudyTest</title>
+    <link href="/2021/09/26/JS%E5%AD%A6%E4%B9%A0/"/>
+    <url>/2021/09/26/JS%E5%AD%A6%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-meta">&#x27;use strict&#x27;</span>;<br><span class="hljs-keyword">var</span> http = <span class="hljs-built_in">require</span>(<span class="hljs-string">&quot;http&quot;</span>);<br><br>http.createServer(<span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params">request,response</span>)</span>&#123;<br>    response.writeHead(<span class="hljs-number">200</span>,&#123;<span class="hljs-string">&#x27;Content-Type&#x27;</span>:<span class="hljs-string">&#x27;text/plain&#x27;</span>&#125;);<br><br>    response.end(<span class="hljs-string">&#x27;NMSL\n&#x27;</span>);<br>&#125;).listen(<span class="hljs-number">8888</span>);<br><br><span class="hljs-keyword">let</span> x=<span class="hljs-number">100</span>;<br><br><span class="hljs-built_in">console</span>.log(x);<br><br><span class="hljs-keyword">var</span> o=[<span class="hljs-number">1</span>,<span class="hljs-number">2</span>,<span class="hljs-number">3</span>,<span class="hljs-number">4</span>,<span class="hljs-number">5</span>];<br><span class="hljs-keyword">for</span> (<span class="hljs-keyword">var</span> key <span class="hljs-keyword">in</span> o) &#123;<br>    <span class="hljs-built_in">console</span>.log(key); <br>&#125;<br><br><br><span class="hljs-keyword">for</span> (<span class="hljs-keyword">var</span> key <span class="hljs-keyword">of</span> o) &#123;<br>    <span class="hljs-built_in">console</span>.log(key); <br>&#125;<br><br><span class="hljs-keyword">var</span> a=<span class="hljs-built_in">JSON</span>.stringify(o);<br><br><span class="hljs-built_in">console</span>.log(o);<br><br><span class="hljs-keyword">var</span> fs = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;fs&#x27;</span>);<br><br><span class="hljs-comment">//异步</span><br>fs.readFile(<span class="hljs-string">&#x27;./sample.txt&#x27;</span>,<span class="hljs-string">&#x27;utf-8&#x27;</span>,<span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params">err,data</span>)</span>&#123;<br>    <span class="hljs-keyword">if</span>(err)&#123;<br>        <span class="hljs-built_in">console</span>.log(err);<br>    &#125;<span class="hljs-keyword">else</span>&#123;<br>        <span class="hljs-built_in">console</span>.log(data);<br>    &#125;<br>&#125;);<br><br><span class="hljs-keyword">var</span> data=<span class="hljs-string">&#x27;NMSL&#x27;</span>;<br><br>fs.writeFile(<span class="hljs-string">&#x27;output.txt&#x27;</span>,data,<span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params">err</span>)</span>&#123;<br>    <span class="hljs-keyword">if</span>(err)&#123;<br>        <span class="hljs-built_in">console</span>.log(err);<br>    &#125;<span class="hljs-keyword">else</span>&#123;<br>        <span class="hljs-built_in">console</span>.log(<span class="hljs-string">&#x27;ok&#x27;</span>);<br>    &#125;<br>&#125;);<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客测试</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>test</title>
+    <link href="/2021/09/26/test/"/>
+    <url>/2021/09/26/test/</url>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/">B站</a></p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span><span class="hljs-meta-string">&lt;stdio.h&gt;</span></span><br><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;hello world!&quot;</span>);<br>&#125;<br></code></pre></td></tr></table></figure><div class="note note-success">            <p>文字 或者 <code>markdown</code> 均可</p>          </div><div>            <input type="checkbox" disabled >text          </div><h3 id="第三方播放嵌入"><a href="#第三方播放嵌入" class="headerlink" title="第三方播放嵌入"></a>第三方播放嵌入</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe src="//player.bilibili.com/player.html?aid=548092644&bvid=BV14q4y1K71L&cid=410803311&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=490 height=270> </iframe><h3 id="最近进行功能学习测试，更新不定时"><a href="#最近进行功能学习测试，更新不定时" class="headerlink" title="最近进行功能学习测试，更新不定时"></a>最近进行功能学习测试，更新不定时</h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客测试</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>每日一题2021-9-25</title>
     <link href="/2021/09/25/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%9821-9-25/"/>
     <url>/2021/09/25/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%9821-9-25/</url>
@@ -21,31 +71,6 @@
     <tags>
       
       <tag>题目</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>test</title>
-    <link href="/2021/09/24/test/"/>
-    <url>/2021/09/24/test/</url>
-    
-    <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/">B站</a></p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs cpp"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span><span class="hljs-meta-string">&lt;stdio.h&gt;</span></span><br><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;hello world!&quot;</span>);<br>&#125;<br></code></pre></td></tr></table></figure><div class="note note-success">            <p>文字 或者 <code>markdown</code> 均可</p>          </div><div>            <input type="checkbox" disabled >text          </div><h3 id="第三方播放嵌入"><a href="#第三方播放嵌入" class="headerlink" title="第三方播放嵌入"></a>第三方播放嵌入</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=92311&auto=1&height=66"></iframe><iframe src="//player.bilibili.com/player.html?aid=548092644&bvid=BV14q4y1K71L&cid=410803311&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=490 height=270> </iframe><h3 id="最近进行功能学习测试，更新不定时"><a href="#最近进行功能学习测试，更新不定时" class="headerlink" title="最近进行功能学习测试，更新不定时"></a>最近进行功能学习测试，更新不定时</h3>]]></content>
-    
-    
-    <categories>
-      
-      <category>博客测试</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>test</tag>
       
     </tags>
     
